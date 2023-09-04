@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacte | head -n 3 |tial -n 1
+cat iacte | head -n 3 | tial -n 1
